@@ -1,3 +1,5 @@
+package lekcja1;
+
 public class zad7 {
     public static void main(String[] args) {
         int SprzedazProduktow;

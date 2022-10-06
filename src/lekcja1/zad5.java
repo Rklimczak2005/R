@@ -1,3 +1,5 @@
+package lekcja1;
+
 public class zad5 {
     public static void main(String[] args) {
        int pomieszczenie1;

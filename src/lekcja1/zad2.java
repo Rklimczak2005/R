@@ -1,3 +1,5 @@
+package lekcja1;
+
 public class zad2 {
     public static void main(String[] args) {
         System.out.println("Rafał Klimczak");

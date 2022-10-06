@@ -1,3 +1,5 @@
+package lekcja1;
+
 public class NajlepszeGry {
     public static void main(String[] args) {
         System.out.print("Według mnie najlepsze gry to:");
